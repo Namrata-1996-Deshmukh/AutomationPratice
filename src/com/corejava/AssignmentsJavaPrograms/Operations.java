@@ -11,12 +11,12 @@ c. 20 + -3*5 / 8
 d. 5 + 15 / 3 * 2 - 8 % 3*/
 	
 	
-	int a=(-5+8)*6;
+	/*int a=(-5+8)*6;
 	
 	System.out.println("First Operation result :"+a);
 	
 	
-	
+	*/
 	
 	
 	
